@@ -1,6 +1,6 @@
 Package: Rveg
 Title: Digitization of Phytosociological Relevés
-Version: 0.1.3
+Version: 0.1.4
 Authors@R: c( 
     person("Přemysl", "Král", , "kralp@fzp.czu.cz", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-2887-651x")),
@@ -15,14 +15,14 @@ Description: Simple and fast tool for transforming phytosociological
 URL: https://plant-ecology-lab-czu.com/rveg/
 License: GPL (>= 3)
 Encoding: UTF-8
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.1
 Imports: dplyr, utils
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2023-10-23 13:03:42 UTC; Lubo
+Packaged: 2024-03-31 18:31:29 UTC; Lubo
 Author: Přemysl Král [aut, cre] (<https://orcid.org/0000-0002-2887-651x>),
   Jan Douda [aut] (<https://orcid.org/0000-0002-1205-364X>)
 Maintainer: Přemysl Král <kralp@fzp.czu.cz>
 Repository: CRAN
-Date/Publication: 2023-10-23 13:40:02 UTC
+Date/Publication: 2024-03-31 20:10:08 UTC
