@@ -1,6 +1,6 @@
 Package: Rveg
 Title: Digitization of Phytosociological Relevés
-Version: 0.1.5
+Version: 0.1.6
 Authors@R: c( 
     person("Přemysl", "Král", , "kralp@fzp.czu.cz", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-2887-651X")),
@@ -20,9 +20,9 @@ Imports: dplyr, utils
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2024-06-24 10:41:09 UTC; sesitcsl2
+Packaged: 2024-11-22 19:04:55 UTC; sesitcsl2
 Author: Přemysl Král [aut, cre] (<https://orcid.org/0000-0002-2887-651X>),
   Jan Douda [aut] (<https://orcid.org/0000-0002-1205-364X>)
 Maintainer: Přemysl Král <kralp@fzp.czu.cz>
 Repository: CRAN
-Date/Publication: 2024-06-26 15:10:02 UTC
+Date/Publication: 2024-11-22 19:30:02 UTC
